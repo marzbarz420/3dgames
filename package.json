@@ -1,0 +1,1 @@
+{"name": "3d-space-shooter","version": "0.1.0","description": "A 3D space shooter web game built with Three.js","scripts": {"dev": "npx serve public"},"dependencies": {"three": "^0.156.1"},"devDependencies": {"serve": "^14.2.0"}}
